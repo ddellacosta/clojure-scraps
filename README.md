@@ -22,4 +22,4 @@ etc.
 
 * load-file.clj
 
-  Just trying to figure out how to load files.  Added a super simple example of currying while I was at it.
+  Just trying to figure out how to load files.  Added a super simple example of providing variable arity to a function while I was at it.
