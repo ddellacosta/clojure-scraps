@@ -20,4 +20,6 @@ etc.
 
   An accumulator (a.k.a. reduce function) based on Raganwald's "Closures and Higher Order Functions" (http://weblog.raganwald.com/2007/01/closures-and-higher-order-functions.html) post.  Didn't implement his currying example (yet).
 
+* load-file.clj
 
+  Just trying to figure out how to load files.  Added a super simple example of currying while I was at it.
