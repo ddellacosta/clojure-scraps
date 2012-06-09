@@ -5,8 +5,8 @@ Clojure examples, experiments, and code I don't want to forget.
 
 Run scripts like:
 
-$ java -cp /path/to/clojure-1.4.0.jar clojure.main accumulator.clj
-$ java -cp /path/to/clojure-1.4.0.jar clojure.main fizzbuzz.clj
+    $ java -cp /path/to/clojure-1.4.0.jar clojure.main accumulator.clj
+    $ java -cp /path/to/clojure-1.4.0.jar clojure.main fizzbuzz.clj
 
 etc.
 
@@ -23,3 +23,7 @@ etc.
 * load-file.clj
 
   Just trying to figure out how to load files.  Added a super simple example of providing variable arity to a function while I was at it.
+
+* fibonacci.clj
+
+  Does what it says on the label.  Written in response to problem 26 at 4clojure.com (http://www.4clojure.com/problem/26)
